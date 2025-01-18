@@ -92,7 +92,6 @@ prompt_toolkit==3.0.47
 protobuf==5.29.1
 psutil==6.0.0
 pure_eval==0.2.3
-PyAudio==0.2.14
 pydantic==2.10.0
 pydantic_core==2.27.0
 pygame==2.6.0
